@@ -1,3 +1,8 @@
+# QUESTÃO 3 - DESAFIO DA CAPGEMINI - 2022
+"""
+Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra.
+Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
+"""
 # Passo 01 — Variável que conta as substrings.
 # Passo 02 — Percorrer a ‘string’ s onde passamos por cada caractere para analisar se existem substrings ou não.
 # Passo 03 — Percorrer s de trás para frente e ver se há alguma familiaridade que podemos contar como anagrama.
@@ -6,11 +11,6 @@
 # Passo 05 — Adicionar ao resultado o número de substrings que já estão presentes e
 # subtrair 1 para caso houver apenas uma ocorrência dessa substring não será um anagrama.
 # Passo 06 — Entregar a quantidade
-
-
-word = str(input("Informe uma palavra: "))
-t = list(word)
-print(t)
 
 
 def AnagramasCount(s):
@@ -27,4 +27,4 @@ def AnagramasCount(s):
     return res
 
 
-print(AnagramasCount(word))  # PASSO 6
+
