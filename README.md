@@ -2,7 +2,7 @@
 
 • Linguaguem de programação - Python 3.10
 
-• IDE do Python - PyCharm Community Edition 2021.3.1
+• IDE - PyCharm Community Edition 2021.3.1
 
 • Framework de Teste - Pytest
 
