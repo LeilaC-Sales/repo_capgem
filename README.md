@@ -10,7 +10,7 @@
 
 ## Abrindo arquivos no PyCharm:
 
-• Faça o download dos arquivos no botão "Code" acima ou clique no link abaixo:
+• Faça o download dos arquivos no botão "Code" acima ou copie o link abaixo:
 ``` bash
 gh repo clone LeilaC-Sales/reposit_capgem
 ```
