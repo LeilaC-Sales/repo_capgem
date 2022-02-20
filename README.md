@@ -15,7 +15,7 @@
 gh repo clone LeilaC-Sales/reposit_capgem
 ```
 
-• Abrir o programa "PyCharm";
+• Abra o programa "PyCharm";
 
 • Ir em File/Open/ (encontrar o caminho onde o download foi salvo e clicar no arquivo que deseja abrir);
 
