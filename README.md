@@ -6,7 +6,7 @@
 
 • Framework de Teste - Pytest
 
-# Instruções de como rodar os arquivos:
+# Instruções de como rodar:
 
 ## Abrindo arquivos no PyCharm:
 
